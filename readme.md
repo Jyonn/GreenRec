@@ -1,4 +1,4 @@
-# OLEO: Only Encode Once
+# GreenRec: Green AI Benchmarking for News Recommendation
 
 ## Environment
 
