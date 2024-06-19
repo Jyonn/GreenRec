@@ -1,5 +1,7 @@
 # GreenRec: Green AI Benchmarking for News Recommendation
 
+**⭐ GreenRec is implemented under the [Legommenders](https://github.com/Jyonn/Legommenders) framework. All the experiments can be reproduced with Legommenders. This repository will no longer be maintained, thanks!**
+
 ## Environment
 
 ```bash
